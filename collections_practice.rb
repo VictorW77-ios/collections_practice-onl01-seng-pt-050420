@@ -34,3 +34,5 @@ end
 def sum_array(array)
   array.inject { |v, w| v + w }
 end 
+
+def 
