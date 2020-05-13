@@ -32,5 +32,5 @@ def find_a(array)
 end
 
 def sum_array(array)
-  array.inject { |a, b| a + b }
+  array.inject { |v, w| v + w }
 end 
