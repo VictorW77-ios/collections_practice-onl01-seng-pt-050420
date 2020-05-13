@@ -35,4 +35,6 @@ def sum_array(array)
   array.inject { |v, w| v + w }
 end 
 
-def 
+def add_s(array)
+  array.each_with_index.collect { |victor, index| }
+end
