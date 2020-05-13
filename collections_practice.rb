@@ -11,5 +11,5 @@ def sort_array_char_count(array)
 end
 
 def swamp_elements 
-  
+  array.sort_by.each_with_index ( {index + 1 }
 end
