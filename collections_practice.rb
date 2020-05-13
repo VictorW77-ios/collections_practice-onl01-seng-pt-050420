@@ -21,4 +21,6 @@ def reverse_array(array)
 end
 # 'array.sort.reverse' takes [12, 4, 35] and returns [35, 12, 4] and not [35, 4, 12]. Idk why, just thought it was interesting
 
-def 
+def kesha_maker(array)
+  
+end
