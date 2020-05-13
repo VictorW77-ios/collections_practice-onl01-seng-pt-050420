@@ -17,5 +17,6 @@ end
 # a resource on coderwall.com really helped with that one ^ 
 
 def reverse_array(array)
-  array.reverse # 'array.sort.reverse' takes [1, 2, 3] and returns [3, 1, 2] and not [3, 2, 1]. Idk why, just thought it was interesting
+  array.reverse 
 end
+# 'array.sort.reverse' takes [12, 4, 35] and returns [35, 12, 4] and not [35, 4, 12]. Idk why, just thought it was interesting
