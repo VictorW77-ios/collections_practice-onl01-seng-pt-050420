@@ -10,6 +10,6 @@ def sort_array_char_count(array)
   array.sort_by { |word| word.length }
 end
 
-def swamp_elements(array)
+def swap_elements(array)
   array.sort_by { word.each_with_index (index + 1) }
 end
