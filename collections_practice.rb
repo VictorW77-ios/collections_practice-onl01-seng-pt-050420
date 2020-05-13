@@ -11,5 +11,5 @@ def sort_array_char_count(array)
 end
 
 def swap_elements(array)
-  array.sort_by { word.each_with_index (index + 1) }
+  array.sort_by { |word| word.each_with_index (index + 1) }
 end
