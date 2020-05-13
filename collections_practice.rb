@@ -17,5 +17,5 @@ end
 # a resource on coderwall.com really helped with that one ^ 
 
 def reverse_array(array)
-  array.sort.reverse
+  array.reverse
 end
