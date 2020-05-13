@@ -23,5 +23,5 @@ end
 
 def kesha_maker(array)
   cash_money = []
-  array.each { |string| cash_money << string.gsub(word[2])
+  array.each { |string| cash_money << string.gsub(word[2], "$")
 end
