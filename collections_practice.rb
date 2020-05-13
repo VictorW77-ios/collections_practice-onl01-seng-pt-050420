@@ -26,3 +26,7 @@ def kesha_maker(array)
   array.each { |string| cash_money << string.gsub(string[2], "$") }
   cash_money
 end
+
+def find_a(array)
+  
+end
